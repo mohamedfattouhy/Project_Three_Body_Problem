@@ -1,1 +1,1 @@
-# Project_group7
+# Project Software Development (Python package)
